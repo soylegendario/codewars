@@ -367,3 +367,9 @@ src/.DS_Store
 src/CodeWars/.DS_Store
 
 .DS_Store
+
+src/CodeWars/obj/
+
+src/CodeWarsTests/obj/
+
+src/CodeWarsTests/bin/Debug/net5.0/

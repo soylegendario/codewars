@@ -2,3 +2,7 @@
 .DS_Store
 
 src/.idea/
+
+.idea/.idea.codewars.dir/.idea/
+
+*.cache
